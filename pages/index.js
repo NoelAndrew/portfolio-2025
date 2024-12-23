@@ -139,8 +139,7 @@ const Home = () => {
               working in software development, mostly involved in the Front End
               side of development. My goal is to grow as much as I can as a
               developer and as a person.
-            </p>
-           
+            </p> 
           </div>
         </div>
         <div className="mt-5" id="experience">
